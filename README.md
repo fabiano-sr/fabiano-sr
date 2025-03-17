@@ -31,19 +31,9 @@
 ![Power BI Badge](https://img.shields.io/badge/Power%20BI-gold?style=for-the-badge&logo=google&logoColor=white&labelColor=black) ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/1/1f/Power_BI_Logo.svg)
 
 
-<div style="display: flex;">
-  <div style="flex: 1; padding: 10px;">
-    ##### Linguagens de Programação  
-    ![Static Badge](https://img.shields.io/badge/Python-gold?style=for-the-badge&logo=python&logoColor=white&labelColor=black) ![Static Badge](https://img.shields.io/badge/R-gold?style=for-the-badge&logo=R&logoColor=white&labelColor=black)
-  </div>
-  <div style="flex: 1; padding: 10px;">
-    ##### Controle de Versão  
-    ![Static Badge](https://img.shields.io/badge/Git-gold?style=for-the-badge&logo=git&logoColor=white&labelColor=black) ![Static Badge](https://img.shields.io/badge/GitHub-gold?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
-  </div>
-</div>
-
-
 ### Skills
+
+<img src="assets\excel-4.svg" width="36" height="36" alt="Git" />
 
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -62,14 +52,14 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; padding: 10px;">
-    ##### Linguagens de Programação  
-    ![Static Badge](https://img.shields.io/badge/Python-gold?style=for-the-badge&logo=python&logoColor=white&labelColor=black) 
-    ![Static Badge](https://img.shields.io/badge/R-gold?style=for-the-badge&logo=R&logoColor=white&labelColor=black)
+    <h5>Linguagens de Programação<br>  
+        <a>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Python-gold?style=for-the-badge&logo=python&logoColor=white&labelColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/R-gold?style=for-the-badge&logo=R&logoColor=white&labelColor=black">
+
   </div>
   <div style="flex: 1; padding: 10px;">
-    ##### Controle de Versão  
-    ![Static Badge](https://img.shields.io/badge/Git-gold?style=for-the-badge&logo=git&logoColor=white&labelColor=black) 
-    ![Static Badge](https://img.shields.io/badge/GitHub-gold?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
+    <h5>Controle de Versão<br>  
+    <img alt="Static Badge" src="https://img.shields.io/badge/Python-gold?style=for-the-badge&logo=python&logoColor=white&labelColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/R-gold?style=for-the-badge&logo=R&logoColor=white&labelColor=black">
   </div>
 </div>
 
