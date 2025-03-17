@@ -17,3 +17,4 @@ Profissional em transição de carreira.
 <a href="https://www.instagram.com/rodriguesfs" target="_blank" rel="noreferrer">
   <img src="assets/logo_instagram.svg" width="30" height="30" alt="Instagram" title="Instagram" />
 </a>
+
